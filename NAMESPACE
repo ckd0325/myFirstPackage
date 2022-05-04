@@ -1,0 +1,1 @@
+export("print_factorial", "print_odd")
